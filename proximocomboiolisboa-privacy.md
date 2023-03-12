@@ -15,9 +15,9 @@ Tomamos medidas de segurança rigorosas para proteger as suas informações pess
 Reservamo-nos o direito de atualizar esta política de privacidade a qualquer momento, sem aviso prévio. Qualquer atualização será publicada nesta página para que você possa sempre estar ciente das informações pessoais que coletamos, como as usamos e sob quais circunstâncias, se é que as usamos, as compartilhamos com terceiros.
 
 ## Contacto:
-Se você tiver alguma dúvida sobre esta política de privacidade, entre em contato pelo endereço de email **ricardo.jorge.rodrigues.00@gmail.com**.
+Se você tiver alguma dúvida sobre esta política de privacidade, entre em contato pelo endereço de email **ricardo.jorge.rodrigues.00.work@gmail.com**.
 
 ## Aceitação da política de privacidade:
 Ao usar a aplicação Próximo Comboio Lisboa, você concorda com esta política de privacidade. Se você não concorda com esta política, por favor, não use a aplicação.
 
-Esta política de privacidade foi atualizada pela última vez em **13/02/2023**.
+Esta política de privacidade foi atualizada pela última vez em **12/03/2023**.
